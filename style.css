@@ -8,12 +8,23 @@
 }
 
 .heading {
+<<<<<<< HEAD
     font-size: 14px;
     padding: 10px 20px;
     justify-content: center;
     color:  rgb(57, 133, 86);
 }
 .button {
+=======
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(57, 133, 86);
+}
+p {
+    color: orange;
+}
+button {
+>>>>>>> nav
     margin: 20px;
     background-color: rgb(57, 133, 86);
     color: white;

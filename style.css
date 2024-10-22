@@ -1,9 +1,8 @@
-h1 {
-    color: green;
-    justify-content: center;
-
+.heading {
+    color: orange;
+    font-size: 40px;
+    
 }
-
 p {
     color: green;
 }

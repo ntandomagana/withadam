@@ -13,7 +13,7 @@
     justify-content: center;
     color:  rgb(57, 133, 86);
 }
-#myButton {
+.button {
     margin: 20px;
     background-color: rgb(57, 133, 86);
     color: white;
@@ -22,7 +22,7 @@
     border-radius: 10px;
 }
 
-#myButton :hover {
+.button :hover {
     margin: 20px;
     background-color: white;
     color: rgb(57, 133, 86);;

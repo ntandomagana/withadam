@@ -7,6 +7,10 @@
     margin-top: 100px;
 }
 
+
+p {
+    color: orange;
+}
 button {
     margin: 20px;
     background-color: rgb(57, 133, 86);
